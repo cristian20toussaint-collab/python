@@ -1,0 +1,9 @@
+#LOCALIZANDO UM ARQUIVO
+
+ARQUIVO = "usarios.txt"
+
+#função: CARREGAR USUÀRIOS
+
+def carregar_usuário():
+    usuarios = []
+    try:
